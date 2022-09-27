@@ -1,4 +1,3 @@
-# ViT
 # Vision Transformer에 관한 코드 구현
 :book: 파일 구성
 - 
